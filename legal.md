@@ -1,4 +1,4 @@
-# Legal Info
+# Legal Info 
 
 ## Copyright
 
@@ -6,10 +6,15 @@ The Authors retain all copyright to their respective work here submitted.
 
 ## License
 
-All images, models, and rigging files in this repository are licensed under the Creative Commons Attribution-ShareAlike 3.0 United States license, unless otherwise stated. See `LICENSE-ASSETS`.
+All images, models, and rigging files in this repository are licensed under the `Creative Commons Attribution-ShareAlike 3.0 United States license`, unless otherwise stated. See `LICENSE-ASSETS`.
 
 ## Code license
+Since this engine is based on RobustToolbox, the code written by the Technologist Team and contributors is licensed separately, and the code of the [RobustToolbox repository](https://github.com/space-wizards/RobustToolbox) is licensed separately.
 
+### TechToolbox
+All human-readable source code materials in this repository contributed are licensed under the MIT license, unless otherwise stated. See `LICENSE.TXT`.
+
+### RobustToolbox
 All human-readable source code materials in this repository contributed **before** 13 March, 2019 at 12:00:00 UTC are licensed under the GPL version 3, unless otherwise stated. See `LICENSE-GPLv3.TXT`.
 
 All human-readable source code materials in this repository contributed **after** 13 March, 2019 at 12:00:00 UTC are licensed under the MIT license, unless otherwise stated. See `LICENSE-MIT.TXT`.
